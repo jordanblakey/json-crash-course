@@ -1,4 +1,4 @@
-#JSON Crash Course
+# JSON Crash Course
 
 ## What is JSON?
 
